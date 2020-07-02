@@ -1,4 +1,14 @@
 - commits:
+    - subject: Add snapcast control
+      hash: abf01efc28e75f8b49ed8601e2429c7ab66b27a7
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Alex
+  version: 2.5.0
+  date: 2020-07-02T11:25:32.438Z
+- commits:
     - subject: 'docs: add troubleshooting case'
       hash: d56f2a8c37cb6e1f707329c34c2e1035c975e351
       body: |
