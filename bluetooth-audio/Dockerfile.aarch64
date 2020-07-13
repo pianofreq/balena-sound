@@ -31,5 +31,7 @@ RUN chmod +x /usr/src/start.sh
 
 COPY .asoundrc /root/.asoundrc
 
+COPY asound.conf /etc/
+
 CMD [ "/bin/bash", "/usr/src/start.sh" ]
 
